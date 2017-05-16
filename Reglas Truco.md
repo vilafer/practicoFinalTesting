@@ -1,4 +1,4 @@
-# practicoFinalTesting
+# Reglas truco
 
 Desarrollo del juego
 Comienzo de la partida y de cada una de las manos
